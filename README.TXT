@@ -1,4 +1,4 @@
-Project: book-exercise
+(This is the change) Project: book-exercise
 Authors: To be set.
 
 This project is part of the material for the book
